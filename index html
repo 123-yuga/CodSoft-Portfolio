@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Portfolio - T. YUGABHARATHI</title>
+</head>
+<body>
+    <header>
+        <center>
+        <div class="name">HI IAM T. YUGABHARATHI</div>
+        </center>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h1>ABOUT ME</h1>
+            <p>I am a full stack developer with expertise in both front-end and back-end technologies.</p>
+            <p>Proficient in HTML, CSS, JavaScript, and SQL, I build dynamic and responsive web applications.</p>
+            <p>Passionate about coding and problem-solving, I thrive on challenges and continuous learning.</p>
+            <p>I enjoy collaborating on innovative projects and bringing ideas to life through technology.</p>
+            <p>Always eager to expand my knowledge and skills in the evolving tech landscape.</p>
+            <p>Let’s connect and explore the world of development together!</p>
+        </section>
+<left>
+        <section id="skills">
+            <h1>SKILLS</h1>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+                <li>Blogging</li>
+                <li>Problem Solving</li>
+            </ul>g
+        </section>
+    </left>
+
+        <section id="projects">
+            <h1>PROJECTS</h1>
+            <div class="project">
+                <h2>IOT Based Real Time Clean Water Distribution System</h2>
+                <p>A project aimed at ensuring clean water distribution using IoT technologies.</p>
+            </div>
+            <div class="project">
+                <h2>Location Based Online Donation System</h2>
+                <p>An innovative platform to facilitate donations based on geographical locations.</p>
+            </div>
+            <aside>
+                <h2>LANGUAGES KNOWN</h2>g
+                <ul>
+                    <li>Python</li>
+                    <li>C</li>
+                    <li>Java Basics</li>
+                    <li>Data Structures</li>
+                </ul>
+                <h2>AWS Course Completion</h2>
+                <p>Completed a comprehensive course on Amazon Web Services (AWS).</p>
+            </aside>
+        </section>
+
+        <section id="contact">
+            <h1>Contact Me</h1>
+            <p>Email: <a href="mailto:bharathiyuga2021@gmail.com">bharathiyuga2021@gmail.com</a></p>
+            <div class="contact-buttons">g
+                <a href="https://wa.me/YOUR_PHONE_NUMBER" class="button">
+                    <img src="whatsapp-icon.png" alt="WhatsApp" class="icon"> WhatsApp
+                </a>
+                <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" class="button">
+                    <img src="linkedin-icon.png" alt="LinkedIn" class="icon"> LinkedIn
+                </a>
+            </div>
+        </section>
+    </main>
+
+    
+
+    <script src="script.js"></script>
+</body>
+
+
+<section id="Resume">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download My Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My Resume</h1>
+        <p>Click the button below to download my resume.</p>
+        <a href="your-resume-link.pdf" class="download-button" download>Download Resume</a>
+    </div>
+</body>
+</html>
+
+
